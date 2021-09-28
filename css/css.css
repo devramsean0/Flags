@@ -1,1 +1,18 @@
-/* No CSS *//*# sourceMappingURL=css.css.map */
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+body {
+  background-color: #276187;
+}
+
+.title {
+  background-color: #273187;
+  color: white;
+  font-family: 'Lobster', cursive;
+}
+
+.subtitle {
+  background-color: #273187;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+}
+/*# sourceMappingURL=css.css.map */
