@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,OAAO,CAAC;EACJ,QAAQ,EAAE,QAAQ;EAClB,MAAM,EAAE,eAAe;EACvB,MAAM,EAAE,KAAK;EACb,KAAK,EAAE,KAAK;EACZ,gBAAgB,EAAE,KAAK;EACvB,WAAW,EAAE,gBAAgB;EAC7B,YAAY,EAAE,eAAe;CAE9B",
+    "sources": [
+        "french.scss"
+    ],
+    "names": [],
+    "file": "french.css"
+}
