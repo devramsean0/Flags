@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,QAAQ,CAAC;EACL,QAAQ,EAAE,QAAQ;EAClB,MAAM,EAAE,eAAe;EACvB,MAAM,EAAE,IAAI;EACZ,KAAK,EAAE,KAAK;EACZ,gBAAgB,EAAE,GAAG;EACrB,UAAU,EAAE,gBAAgB;EAC5B,aAAa,EAAE,iBAAiB;CAEjC",
+    "sources": [
+        "german.scss"
+    ],
+    "names": [],
+    "file": "german.css"
+}
